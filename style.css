@@ -1,0 +1,13 @@
+fieldset{
+width:200px;
+height: 300px;
+box-shadow: 3px 4px 5px 6px rgb(144, 122, 252);
+position: center;
+text-align: center;
+align-items: center;
+left:1px;
+bottom: 30px;
+background: linear-gradient(to left, rgb(124, 132, 243),rgb(191, 177, 255),rgb(252, 248, 248));
+border: 1px solid black;
+ border-radius: 9px;
+}
